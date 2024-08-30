@@ -5,17 +5,17 @@ export default function Testimonials() {
     {
       name: 'Mary Hudson',
       text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit nullam nunc justo sagittis suscipit ultrices.',
-      image: "/assets/temoin3.jpg", // Remplace avec le chemin de l'image de Mary
+      image: "/lawyer/assets/temoin3.jpg", // Remplace avec le chemin de l'image de Mary
     },
     {
       name: 'John Doe',
       text: 'Suspendisse ultricies leo a magna ultrices, non vulputate mauris consectetur.',
-      image: "/assets/temoin4.jpg", // Remplace avec le chemin de l'image de John
+      image: "/lawyer/assets/temoin4.jpg", // Remplace avec le chemin de l'image de John
     },
     {
       name: 'Jane Smith',
       text: 'Curabitur ac quam eget felis faucibus feugiat nec et velit.',
-      image: "/assets/temoi1.jpg", // Remplace avec le chemin de l'image de Jane
+      image: "/lawyer/assets/temoi1.jpg", // Remplace avec le chemin de l'image de Jane
     },
   ];
 

@@ -5,22 +5,22 @@ export default function Team() {
     {
       name: 'Polly Walter',
       title: 'Directeur de la Publicité',
-      image: '/polly.jpg', // Remplace avec le chemin de l'image de Polly
+      image: '/lawyer/polly.jpg', // Remplace avec le chemin de l'image de Polly
     },
     {
       name: 'Adrian Gronder',
       title: 'Directeur Financier',
-      image: '/adrian.jpg', // Remplace avec le chemin de l'image d'Adrian
+      image: '/lawyer/adrian.jpg', // Remplace avec le chemin de l'image d'Adrian
     },
     {
       name: 'Nat Reynolds',
       title: 'Comptable-Auditeur',
-      image: '/nat.jpg', // Remplace avec le chemin de l'image de Nat
+      image: '/lawyer/nat.jpg', // Remplace avec le chemin de l'image de Nat
     },
     {
       name: 'Jorge Greer',
       title: 'Responsable des Ressources Humaines',
-      image: '/jorge.jpg', // Remplace avec le chemin de l'image de Jorge
+      image: '/lawyer/jorge.jpg', // Remplace avec le chemin de l'image de Jorge
     },
   ];
 

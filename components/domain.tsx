@@ -5,7 +5,7 @@ export default function Domaine() {
     <section className="bg-gray-800 text-white py-12">
       <div className="container mx-auto text-center">
         <h2 className="text-3xl font-bold mb-6">Nous sommes différents</h2>
-        <p className="text-lg mb-10">Principaux domaines d'expertise</p>
+        <p className="text-lg mb-10">{`Principaux domaines d'expertise`}</p>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
           <div className="bg-gray-700 p-6 rounded-lg text-center">
             <div className="mb-4">

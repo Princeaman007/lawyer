@@ -21,7 +21,7 @@ export default function Domaine() {
               <span className="text-4xl">💼</span>
             </div>
             <h3 className="text-xl font-semibold">Droit des Affaires</h3>
-            <p className="mt-2">Notre expertise en droit des affaires nous permet de proposer des solutions juridiques personnalisées pour soutenir et protéger les intérêts de votre entreprise. Que ce soit pour rédiger des contrats, négocier des accords commerciaux ou gérer des litiges. Nous vous soutenons à chaque étape pour assurer la sécurité de vos transactions et optimiser votre croissance. Nous mettons l'accent sur la prévention des risques et l efficacité juridique, afin que vous puissiez vous concentrer sur le développement de vos activités en toute tranquillité.</p>
+            <p className="mt-2">Notre expertise en droit des affaires nous permet de proposer des solutions juridiques personnalisées pour soutenir et protéger les intérêts de votre entreprise. Que ce soit pour rédiger des contrats, négocier des accords commerciaux ou gérer des litiges. Nous vous soutenons à chaque étape pour assurer la sécurité de vos transactions et optimiser votre croissance. Nous mettons l accent sur la prévention des risques et l efficacité juridique, afin que vous puissiez vous concentrer sur le développement de vos activités en toute tranquillité.</p>
           </div>
           <div className="bg-gray-700 p-6 rounded-lg text-center">
             <div className="mb-4">
@@ -29,7 +29,7 @@ export default function Domaine() {
               <span className="text-4xl">⚖️</span>
             </div>
             <h3 className="text-xl font-semibold">Droit des Assurances</h3>
-            <p className="mt-2">Notre expertise en droit des assurances nous permet d accompagner nos clients dans la gestion et la résolution de leurs litiges en matière d'assurance. Que ce soit pour des assurances pour la maison, l automobile ou la responsabilité civile, nous nous engageons à protéger vos intérêts et à vous offrir des conseils juridiques adaptés à vos besoins. Nous nous engageons à vous garantir une compréhension claire de vos droits et à vous assister dans la recherche des meilleures solutions face aux assureurs.</p>
+            <p className="mt-2">Notre expertise en droit des assurances nous permet d accompagner nos clients dans la gestion et la résolution de leurs litiges en matière d assurance. Que ce soit pour des assurances pour la maison, l automobile ou la responsabilité civile, nous nous engageons à protéger vos intérêts et à vous offrir des conseils juridiques adaptés à vos besoins. Nous nous engageons à vous garantir une compréhension claire de vos droits et à vous assister dans la recherche des meilleures solutions face aux assureurs.</p>
           </div>
           <div className="bg-gray-700 p-6 rounded-lg text-center">
             <div className="mb-4">

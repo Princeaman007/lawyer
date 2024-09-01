@@ -3,13 +3,13 @@ import Image from 'next/image';
 export default function Team() {
   const teamMembers = [
     {
-      name: 'Polly Walter',
-      title: 'Directeur de la Publicité',
-      image: '/lawyer/polly.jpg', // Remplace avec le chemin de l'image de Polly
+      name: 'Albert Rickson',
+      title: 'Avocat Fondateur',
+      image: '/lawyer/assets/avocat.jpeg', // Remplace avec le chemin de l'image de Polly
     },
     {
       name: 'Adrian Gronder',
-      title: 'Directeur Financier',
+      title: 'Avocat Associé ',
       image: '/lawyer/adrian.jpg', // Remplace avec le chemin de l'image d'Adrian
     },
     {
@@ -27,7 +27,7 @@ export default function Team() {
   return (
     <section className="bg-gray-50 py-12">
       <div className="container mx-auto text-center">
-        <h2 className="text-3xl font-bold mb-8">Notre Équipe</h2>
+        <h2 className="text-3xl text-amber-400 font-bold mb-8">Notre Équipe</h2>
         <p className="text-gray-600 mb-12">
           Sample text. Lorem ipsum dolor sit amet, consectetur adipiscing elit nullam nunc justo sagittis suscipit ultrices.
         </p>
@@ -38,8 +38,8 @@ export default function Team() {
                 <Image
                   src={member.image}
                   alt={member.name}
-                  width={128}
-                  height={128}
+                  width={90}
+                  height={90}
                   className="rounded-full object-cover"
                 />
               </div>

@@ -20,7 +20,7 @@ const Hero = () => {
   const width = useWidth();
   console.log(width);
   return (
-    <div className="relative md:w-full md:h-screen md:mt-42">
+    <div className="relative md:w-full md:h-screen md:mt-42 mb-4">
       {width > 799 ?
         <Image
           src="/lawyer/assets/hero.jpg"

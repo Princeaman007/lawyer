@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    basePath: "jurislex.fr",
+    basePath: "www.jurislex.fr",
     output: "export",
     reactStrictMode: true,
     images: {

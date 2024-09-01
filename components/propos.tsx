@@ -3,6 +3,7 @@ import ContactForm from "./contactform";
 import Domaine from "./domain";
 import Footer from "./footer";
 import Hero from "./hero";
+import HeroAbout from "./heroAbout";
 import Navbar from "./navbar";
 
 
@@ -10,7 +11,7 @@ export default function Propo(){
     return(
         <div>
             <Navbar/>
-            <Hero/>
+            <HeroAbout/>
             <About/>
             <Domaine/>
             <ContactForm/>

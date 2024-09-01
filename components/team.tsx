@@ -10,17 +10,17 @@ export default function Team() {
     {
       name: 'Adrian Gronder',
       title: 'Avocat Associé ',
-      image: '/lawyer/adrian.jpg', // Remplace avec le chemin de l'image d'Adrian
+      image: '/lawyer/assets/associe.jpg', // Remplace avec le chemin de l'image d'Adrian
     },
     {
       name: 'Nat Reynolds',
       title: 'Comptable-Auditeur',
-      image: '/lawyer/nat.jpg', // Remplace avec le chemin de l'image de Nat
+      image: '/lawyer/assets/nat.jpg', // Remplace avec le chemin de l'image de Nat
     },
     {
       name: 'Jorge Greer',
       title: 'Responsable des Ressources Humaines',
-      image: '/lawyer/jorge.jpg', // Remplace avec le chemin de l'image de Jorge
+      image: '/lawyer/assets/respo.jpg', // Remplace avec le chemin de l'image de Jorge
     },
   ];
 

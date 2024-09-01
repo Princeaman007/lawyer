@@ -23,7 +23,7 @@ const Hero = () => {
     <div className="relative md:w-full md:h-screen md:mt-42 mb-4">
       {width > 799 ?
         <Image
-          src="https://drive.google.com/file/d/1gWn09UaeFrzDEwxOPsP6ANwM4Qs8gggA/view?usp=drive_link"
+          src="/assets/hero.jpg"
           alt="Hero Image"
           fill
           object-fill
@@ -32,7 +32,7 @@ const Hero = () => {
         />
         :
         <Image
-          src="https://drive.google.com/file/d/1gWn09UaeFrzDEwxOPsP6ANwM4Qs8gggA/view?usp=drive_link"
+          src="/assets/hero.jpg"
           alt="Hero Image"
           width={800}
           height={800}

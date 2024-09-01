@@ -15,7 +15,7 @@ export default function Navbar() {
                 <div className="flex items-center text-xl font-bold">
                     <Link href="/">
                         <Image 
-                            src="/www.jurislex.fr/assets/logo.png" // Chemin vers ton logo
+                            src="/assets/logo.png" // Chemin vers ton logo
                             alt="Logo JurisLex"
                             width={100} // Ajuste la largeur selon tes besoins
                             height={150} // Ajuste la hauteur selon tes besoins

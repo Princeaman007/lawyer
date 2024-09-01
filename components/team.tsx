@@ -5,22 +5,22 @@ export default function Team() {
     {
       name: 'Albert Rickson',
       title: 'Avocat Fondateur',
-      image: '/www.jurislex.fr/assets/avocat.jpeg', // Remplace avec le chemin de l'image de Polly
+      image: '/assets/avocat.jpeg', // Remplace avec le chemin de l'image de Polly
     },
     {
       name: 'Adrian Gronder',
       title: 'Avocat Associé ',
-      image: '/www.jurislex.fr/assets/associe.jpg', // Remplace avec le chemin de l'image d'Adrian
+      image: '/assets/associe.jpg', // Remplace avec le chemin de l'image d'Adrian
     },
     {
       name: 'Nat Reynolds',
       title: 'Comptable-Auditeur',
-      image: '/www.jurislex.fr/assets/nat.jpg', // Remplace avec le chemin de l'image de Nat
+      image: '/assets/nat.jpg', // Remplace avec le chemin de l'image de Nat
     },
     {
       name: 'Jorge Greer',
       title: 'Responsable des Ressources Humaines',
-      image: '/www.jurislex.fr/assets/respo.jpg', // Remplace avec le chemin de l'image de Jorge
+      image: '/assets/respo.jpg', // Remplace avec le chemin de l'image de Jorge
     },
   ];
 

@@ -2,7 +2,6 @@ import About from "./about";
 import ContactForm from "./contactform";
 import Domaine from "./domain";
 import Footer from "./footer";
-import Hero from "./hero";
 import HeroAbout from "./heroAbout";
 import Navbar from "./navbar";
 
